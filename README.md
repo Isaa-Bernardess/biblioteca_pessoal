@@ -1,6 +1,6 @@
-# 📚 Biblioteca Pessoal em C
+# 📚 Biblioteca Pessoal em C++
 
-Este projeto é um sistema simples de gerenciamento de livros utilizando **arquivos binários** em C.  
+Este projeto é um sistema simples de gerenciamento de livros utilizando **arquivos binários** em C++.  
 Permite cadastrar livros, consultar registros pelo índice e visualizar a quantidade total armazenada.
 
 ---
